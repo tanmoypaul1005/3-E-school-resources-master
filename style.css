@@ -1,0 +1,94 @@
+.container{
+    margin-bottom: 100px;
+}
+ 
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+   
+}
+.nav-link {
+    color: black;
+    font-style: bold;
+   
+    }
+/* Banner start */
+.banner{
+    background-color:#F0FFF0;
+    border-radius: 10px;
+    padding: 30px;    
+}
+.banner img{
+width:100%;
+}
+
+.ptag{
+    color:#FD511A
+    ;
+}
+.hcolur-highlight{
+    color:#099E53;
+}
+/* Banner end */
+
+/* categories start */
+.cat1,.cat2,.cat3,.cat4{
+ padding:10px,20px;
+}
+.cat{
+    box-shadow: greenyellow 5px 5px 10px 10px;
+    border-radius:10px ;
+    height: 230px;
+    width:250px;
+    padding: 35px;
+    text-align: center;
+  
+}
+
+.cat img{
+    width: 70px;
+    margin-bottom: 20px;
+}
+/* categories end  */
+
+
+/*online courses card start */
+.card img {
+    width:100%;  
+}
+/*online courses card end */
+
+
+
+
+/* Testimonial start  */
+.Testimonial{
+    width:90%;
+    float:left;
+}
+.Testimonial img{
+    width:40%;   
+}
+/* Testimonial end */
+
+/* Last pages start */
+.lastpage{
+    background-color:#282531;
+    color:white;
+    font-size: 13px;
+    padding:20px;
+}
+.paragrap{
+font-size: 16px;
+padding-left: 70px;
+}
+/* Last pages end */
+
+/* copyright start */
+footer p{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 40px;
+
+}
+/* copyright end */
